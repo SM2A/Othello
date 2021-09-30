@@ -1,0 +1,6 @@
+﻿  othello.cpp
+othello.cpp(14): warning C4005: 'ERROR': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\wingdi.h(114): note: see previous definition of 'ERROR'
+c:\users\sm2a\desktop\دانشگاه\new folder\bgi\othello.cpp(909): warning C4715: 'newGame': not all control paths return a value
+  bgi.vcxproj -> C:\Users\SM2A\Desktop\دانشگاه\New folder\bgi\main\bgi.exe
+  bgi.vcxproj -> C:\Users\SM2A\Desktop\دانشگاه\New folder\bgi\main\bgi.pdb (Full PDB)

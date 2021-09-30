@@ -1,0 +1,43 @@
+﻿  winthread.cxx
+c:\users\sm2a\desktop\bgi\winthread.cxx(320): warning C4101: 'i': unreferenced local variable
+  winbgi.cxx
+c:\users\sm2a\desktop\bgi\winbgi.cxx(81): warning C4800: 'BOOL': forcing value to bool 'true' or 'false' (performance warning)
+c:\users\sm2a\desktop\bgi\winbgi.cxx(134): warning C4101: 'actual_color': unreferenced local variable
+c:\users\sm2a\desktop\bgi\winbgi.cxx(133): warning C4101: 'bgi_color': unreferenced local variable
+c:\users\sm2a\desktop\bgi\winbgi.cxx(494): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  text.cxx
+c:\users\sm2a\desktop\bgi\text.cxx(348): warning C4018: '<': signed/unsigned mismatch
+  palette.cxx
+  othello.cpp
+c:\users\sm2a\desktop\bgi\othello.cpp(16): warning C4005: 'ERROR': macro redefinition
+  c:\program files (x86)\windows kits\8.1\include\um\wingdi.h(114): note: see previous definition of 'ERROR'
+  mouse.cxx
+  misc.cxx
+c:\users\sm2a\desktop\bgi\misc.cxx(595): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+c:\users\sm2a\desktop\bgi\misc.cxx(596): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+c:\users\sm2a\desktop\bgi\misc.cxx(597): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+c:\users\sm2a\desktop\bgi\misc.cxx(598): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+c:\users\sm2a\desktop\bgi\misc.cxx(599): warning C4838: conversion from 'int' to 'unsigned short' requires a narrowing conversion
+  main.cxx
+c:\users\sm2a\desktop\bgi\main.cxx(189): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sm2a\desktop\bgi\main.cxx(192): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sm2a\desktop\bgi\main.cxx(195): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\sm2a\desktop\bgi\main.cxx(333): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+c:\users\sm2a\desktop\bgi\main.cxx(367): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sm2a\desktop\bgi\main.cxx(388): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sm2a\desktop\bgi\main.cxx(397): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  file.cxx
+  drawing.cxx
+c:\users\sm2a\desktop\bgi\drawing.cxx(819): warning C4101: 'tries': unreferenced local variable
+c:\users\sm2a\desktop\bgi\drawing.cxx(859): warning C4101: 'answer': unreferenced local variable
+c:\users\sm2a\desktop\bgi\drawing.cxx(1110): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  dibutil.cxx
+  bgiout.cxx
+  Generating Code...
+c:\users\sm2a\desktop\bgi\othello.cpp(799): warning C4715: 'newGame': not all control paths return a value
+Debug\main.obj : warning LNK4042: object specified more than once; extras ignored
+  bgi.vcxproj -> C:\Users\SM2A\Desktop\bgi\Debug\bgi.exe
+  bgi.vcxproj -> C:\Users\SM2A\Desktop\bgi\Debug\bgi.pdb (Full PDB)
